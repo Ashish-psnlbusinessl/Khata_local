@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourname.khatabook",
+  "appName": "Khata Book",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
